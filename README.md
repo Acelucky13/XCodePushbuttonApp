@@ -39,7 +39,7 @@ The only Challenges i've encountered were, where to add the code at the beginnin
 
 ## App Brainstorming 
 
-my three favorite apps I use daily are:
+My three favorite apps I use daily are:
 Facebook messenger - you can facetime with anyone, and messege anyone via messege and calls even to mexico, and other countries where permited.
 WhatsAPP - you can call, and facetime, and text anyone in practically any country and takes away the need for a pre-paid cellular card that charges by the minute.
 Instagram - for the videos, chat via DM(direct messeges), and video-chat and you can post about just anything including travel, and life in general Vlogs.
